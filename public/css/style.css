@@ -1,0 +1,14 @@
+.product-info:hover {
+	background-color: #e6e6e6;
+	border-radius: 20px;
+	transform-origin: 50% 65%;
+    transition: transform 1s, filter .5s ease-in-out;
+    filter: brightness(50%);
+    filter: brightness(100%);
+  transform: scale(1.10);
+}
+
+html {
+    max-width: 100%;
+    overflow-x: hidden;
+}
